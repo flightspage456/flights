@@ -19,6 +19,9 @@
 <body class="bg-gray-100">
     <div class="container mx-auto p-4 max-w-4xl">
         <h1 class="text-3xl font-bold mb-6 text-center">Flight Search Links (LIS-LON)</h1>
+        <button id="expandAllBtn" class="mb-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+            Expand All
+        </button>
         <div id="flightData" class="space-y-4"></div>
     </div>
 
@@ -51,7 +54,12 @@
                 const weekDiv = document.createElement('div');
                 weekDiv.className = 'border-b border-gray-200 pb-4 last:border-b-0 last:pb-0';
                 weekDiv.innerHTML = `
-                    <h3 class="font-semibold mb-2 text-lg text-gray-800">${week.dates}</h3>
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="font-semibold text-lg text-gray-800">${week.dates}</h3>
+                        <button class="open-all-btn bg-green-500 hover:bg-green-700 text-white font-bold py-1 px-2 rounded text-sm">
+                            Open All
+                        </button>
+                    </div>
                     <ul class="space-y-2">
                         ${week.links.map(link => `
                             <li>
@@ -67,17 +75,30 @@
                     </ul>
                 `;
                 monthContent.appendChild(weekDiv);
+
+                const openAllBtn = weekDiv.querySelector('.open-all-btn');
+                openAllBtn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    week.links.forEach(link => {
+                        window.open(link.url, '_blank');
+                    });
+                });
             });
 
             monthCard.appendChild(monthHeader);
             monthCard.appendChild(monthContent);
 
             monthHeader.addEventListener('click', () => {
-                monthCard.classList.toggle('expanded');
-                monthHeader.querySelector('.toggle-icon').textContent = monthCard.classList.contains('expanded') ? '▲' : '▼';
+                toggleMonthCard(monthCard);
             });
 
             return monthCard;
+        }
+
+        function toggleMonthCard(monthCard) {
+            monthCard.classList.toggle('expanded');
+            const toggleIcon = monthCard.querySelector('.toggle-icon');
+            toggleIcon.textContent = monthCard.classList.contains('expanded') ? '▲' : '▼';
         }
 
         async function renderFlightData() {
@@ -91,6 +112,29 @@
 
             flightData.forEach(monthData => {
                 container.appendChild(createMonthCard(monthData));
+            });
+
+            setupExpandAllButton();
+        }
+
+        function setupExpandAllButton() {
+            const expandAllBtn = document.getElementById('expandAllBtn');
+            let allExpanded = false;
+
+            expandAllBtn.addEventListener('click', () => {
+                const monthCards = document.querySelectorAll('.month-card');
+                monthCards.forEach(card => {
+                    if (allExpanded) {
+                        card.classList.remove('expanded');
+                        card.querySelector('.toggle-icon').textContent = '▼';
+                    } else {
+                        card.classList.add('expanded');
+                        card.querySelector('.toggle-icon').textContent = '▲';
+                    }
+                });
+
+                allExpanded = !allExpanded;
+                expandAllBtn.textContent = allExpanded ? 'Collapse All' : 'Expand All';
             });
         }
 
