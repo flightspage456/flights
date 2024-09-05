@@ -7,19 +7,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-10-flexible-1day/2024-09-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -28,19 +28,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-17-flexible-1day/2024-09-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -49,19 +49,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-09-24-flexible-1day/2024-09-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
@@ -75,19 +75,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-01-flexible-1day/2024-10-04-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -96,19 +96,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-08-flexible-1day/2024-10-11-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -117,19 +117,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-15-flexible-1day/2024-10-18-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -138,19 +138,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-22-flexible-1day/2024-10-25-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -159,19 +159,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-10-29-flexible-1day/2024-11-01-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
@@ -185,19 +185,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-05-flexible-1day/2024-11-08-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -206,19 +206,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-12-flexible-1day/2024-11-15-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -227,19 +227,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-19-flexible-1day/2024-11-22-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -248,19 +248,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-11-26-flexible-1day/2024-11-29-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
@@ -274,19 +274,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-03-flexible-1day/2024-12-06-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -295,19 +295,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-10-flexible-1day/2024-12-13-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -316,19 +316,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-17-flexible-1day/2024-12-20-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -337,19 +337,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-24-flexible-1day/2024-12-27-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -358,19 +358,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2024-12-31-flexible-1day/2025-01-03-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
@@ -384,19 +384,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-07-flexible-1day/2025-01-10-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -405,19 +405,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-14-flexible-1day/2025-01-17-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -426,19 +426,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-21-flexible-1day/2025-01-24-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -447,19 +447,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-01-28-flexible-1day/2025-01-31-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
@@ -473,19 +473,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-04-flexible-1day/2025-02-07-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -494,19 +494,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-11-flexible-1day/2025-02-14-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -515,19 +515,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-18-flexible-1day/2025-02-21-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       },
@@ -536,19 +536,19 @@
         "links": [
           {
             "name": "Early departure, early return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__0600,1500;stops=~0"
           },
           {
             "name": "Early departure, late return. LIS-LON: Monday, Tuesday, Wednesday. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=0700,1045__2031,2230;stops=~0"
           },
           {
             "name": "Late departure, early return. LIS-LON: Tuesday only. LON-LIS: Saturday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__0600,1500;stops=~0"
           },
           {
             "name": "Late departure, late return. LIS-LON: Tuesday only. LON-LIS: Friday only",
-            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359"
+            "url": "https://www.kayak.pt/flights/LIS-LON/2025-02-25-flexible-1day/2025-02-28-flexible-1day-after?sort=bestflight_a&fs=takeoff=2034,2359__2034,2359;stops=~0"
           }
         ]
       }
